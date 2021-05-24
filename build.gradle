@@ -1,0 +1,11 @@
+/**
+ * Spectral Powered
+ * Copyright (c) 2021 <Kyle Escobar>
+ *
+ * This project is a gradle manager which builds and maintains a nice
+ * development environment for the Spectral Oldschool RuneScape client.
+ */
+
+plugins {
+    id "org.ajoberstar.grgit" version "4.1.0"
+}
