@@ -1,7 +1,0 @@
-//file:noinspection GroovyAssignabilityCheck
-
-spectralpowered {
-    git baseUrl: 'https://github.com/spectral-powered', {
-        project name: 'logger'
-    }
-}
